@@ -76,3 +76,61 @@ h1{
     border-radius: 5px;
 
 }
+
+.ex-header{
+    font-size: 50px;
+    padding-left: 15px;
+    padding-top: 30px;
+
+
+}
+
+.last-h2{
+    font-size: 40px ;
+}
+
+.experience{
+    
+    
+    height: 700px;
+    background-image: url(/Photos/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: 280px;
+
+}
+
+.container{
+    display: flex;
+}
+
+.div-5{
+     
+    border-left: 8px solid #FA6E5A;
+     width: 50%;
+     padding: 20px;
+     padding-top: 0;
+     margin-left: 85px;
+     margin-right: 40px;
+     height: 400px;
+     box-shadow: 10px 10px 40px gray;
+
+}
+
+.div-6{
+    border-left: 8px solid;
+    
+    width: 50%;
+    padding: 20px;
+    padding-top: 0px;
+    margin-right: 85px;
+    margin-left: 40px;
+    height: 400px;
+    box-shadow: 10px 10px 40px gray
+    
+
+
+}
+
+.orange{
+    color: orange;
+}

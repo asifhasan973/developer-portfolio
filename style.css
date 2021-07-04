@@ -118,7 +118,7 @@ h1{
 
 .div-6{
     border-left: 8px solid;
-    
+    border-image: linear-gradient(#0101FF, #00FDFF) 30;
     width: 50%;
     padding: 20px;
     padding-top: 0px;
@@ -127,10 +127,15 @@ h1{
     height: 400px;
     box-shadow: 10px 10px 40px gray
     
-
-
 }
 
 .orange{
     color: orange;
+}
+
+footer p{
+    text-align: center;
+    color: #777977;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
 }

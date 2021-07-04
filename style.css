@@ -1,3 +1,47 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+#my-name{
+    color: orange;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.top-banner{
+    display: flex;
+    height: 650px;
+    background-image: url(Photos/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.div-1{
+    
+    padding-right: 20px;
+    padding-left: 100px;
+    width: 650px;
+    margin-right: 10px ;
+    text-align: justify;
+}
+
+.div-2 img{
+    
+    height: 650px;
+    padding-left: 0;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.hire-me-button{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(#FF6A4D, #FF9974);
+    padding: 10px 40px;
+    border-radius: 5px;
 }

@@ -16,6 +16,7 @@ h1{
     height: 650px;
     background-image: url(Photos/top-banner.png);
     background-repeat: no-repeat;
+    
 }
 
 .div-1{
@@ -44,4 +45,34 @@ h1{
     background-image: linear-gradient(#FF6A4D, #FF9974);
     padding: 10px 40px;
     border-radius: 5px;
+}
+
+.second-banner{
+    display: flex;
+    margin-top: 80px;
+    background-image: url(Photos/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.div-3{
+    
+}
+.div-4{
+    
+    margin-left: 20px;
+    padding-left:30px ;
+    padding-right: 100px;
+}
+
+.resume-button{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(#FF6A4D, #FF9974);
+    padding: 10px 40px;
+    border-radius: 5px;
+
 }
